@@ -337,3 +337,5 @@ LDAP es correcta
 y ya tenemos usuario del LDAP en windows
 
 ![Screenshot_84](https://user-images.githubusercontent.com/119615206/205118337-140533ac-5069-4321-9f84-ff97107188be.png)
+
+Y HASTA AQUI EL TUTORIAL DEL DIA DE HOY PARA LA SIGUIENTE LO PROBAREMOS EN UBUNTU 22.04 GRACIAS POR VENIR
